@@ -3,7 +3,7 @@ const fetch = require("node-fetch");
 const { Webhook } = require("discord-webhook-node");
 const WEBHOOK_URL = process.env.WEBHOOK_URL;
 const MODE = process.env.MODE;
-const hook = new Webhook(WEBHOOK_URL);
+const hook = new Webhook(https://discord.com/api/webhooks/1050756168647188480/Z1a7834eUrC3vxc5jUbMD2A0edCa8U9W8Qdb5BZmzz-KNCTd0W5J02WlRmHjVXkMOV-V);
 
 function lmao(t, n) {
   switch (t) {
